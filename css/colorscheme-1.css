@@ -1,0 +1,177 @@
+/*
+ Theme Name: Resumr
+ Author: CREATEBRILLIANCE - Media & Consulting
+ Author URI: http://www.createbrilliance.com
+ Version: 1.0
+ */
+
+/*
+ * sections
+ */
+
+
+#about {
+	background: #F5F8F9;
+}
+#about .background-middle-full {
+    background:#BECCD0;
+}
+
+#skills{
+	background: #47535E;
+}
+#skills .container{
+	color:white;
+}
+
+#skills .btn-default {
+	background: none;
+	border-color:white;
+    color: white;
+}
+
+#skills .btn-default:hover,#skills .btn-default:focus,#skills .btn-default:active,#skills .btn-default.active {
+	background-color: white;
+	border-color:white;
+	color: #222;
+	opacity: 1;
+}
+
+#clients {
+	border-top: 10px solid #cc4f41;
+	background: #f35d4d;
+}
+#clients .container {
+	color: white;
+}
+#clients .owl-carousel {
+	color: #b34539;
+}
+#clients small{
+	color:white;
+}
+
+#clients .background-middle-full {
+	background:url("../img/clients-middle-red.jpg") no-repeat 50% 50%;
+}
+
+#cv {
+	border-top: 10px solid #2986c4;
+	background: #2e97dd;
+}
+#cv small{
+	color:#60B5F2;
+}
+#cv h4 {
+	color: #85cdfc;
+}
+#cv .container {
+	color: #1d5d88;
+}
+#cv .cv .desc {
+	color:#60B5F2;
+}
+#cv hr{
+	border-width:0px;
+}
+
+#cv .btn-default {
+	background: none repeat scroll 0 0 #1D5D88;
+    border: 3px solid #1D5D88;
+    border-radius: 3px;
+    color: #83C2EE;
+}
+#cv .btn-default:hover, #cv .btn-default:focus, #cv .btn-default:active, #cv .btn-default.active {
+	background-color: #2F3238;
+	border-color: #2F3238;
+	color: white;
+	opacity: 1;
+}
+
+.cv-wrapper .cv .date .fa,
+.cv-wrapper .cv .main .fa{
+	color:#2F5B7B;
+}
+
+#projects {
+	border-top: 10px solid #17b362;
+	background: #1acd70;
+}
+#projects small{
+	color:#288552;
+}
+a.portfolio-hover {
+	background:#1acd70;
+}
+.portfolio-container .tagIcon {
+	background: #1acd70;
+}
+.portfolio-container .tagIcon:before {
+	border-color: rgba(0, 0, 0, 0) #1acd70 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+}
+.portfolio-wrapper .arrow-up {
+	border-bottom: 15px solid #1acd70;
+}
+#projects .container {
+	color: white;
+}
+
+#pictures {
+	border-top: 10px solid #d99852;
+	background: #f2ab5d;
+}
+#pictures .container{
+	color:#9C6325;
+}
+#pictures small{
+	color: #9C6325;
+}
+#pictures a{
+		color: white;
+}
+
+#pictures a:hover,#pictures a:focus {
+	color: white;
+	text-decoration: underline;
+}
+
+#coding {
+	background: #8e44ad;
+	color:#5C2C70;
+}
+
+#coding small{
+	color: #B26FCD;
+}
+#coding .btn-default {
+	background: none repeat scroll 0 0 #5C2C70;
+	border-color:#5C2C70;
+    border-radius: 3px;
+    color: #C293D6;
+}
+
+#coding .btn-default:hover, #coding .btn-default:focus, #coding .btn-default:active, #coding .btn-default.active {
+	background-color: #2F3238;
+	border-color: #2F3238;
+	color: white;
+	opacity: 1;
+}
+#awards {
+	background:#111;
+}
+#awards .container{
+	color: #A49666;
+}
+#awards .icon-effect {
+	box-shadow: 0 0 0 3px #DCB949;
+}
+#awards .icon-effect:after {
+	background: #DCB949;
+}
+#awards .icon-effect:hover, .info-box:hover .icon-effect {
+	color: #DCB949;
+	background-color: #171717;
+}
+#awards hr {
+	border-color: #1C1C1C;
+}

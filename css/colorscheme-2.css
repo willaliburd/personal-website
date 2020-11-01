@@ -1,0 +1,126 @@
+/*
+ Theme Name: Resumr
+ Author: CREATEBRILLIANCE - Media & Consulting
+ Author URI: http://www.createbrilliance.com
+ Version: 1.0
+ */
+
+/*
+ * sections
+ */
+
+
+body {
+	color: #A49666;
+}
+a {
+	color: #D6D6D6;
+}
+a:hover, a:focus {
+	color: #818181;
+}
+
+.btn-default {
+	color: #625C4B;
+	border: 3px solid #625C4B;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+	background-color: #625C4B;
+	border-color: #625C4B;
+}
+
+small {
+	color: #625C4B;
+}
+section {
+	background: #171717;
+}
+section:nth-child(odd) {
+	background: #0D0D0D;
+}
+
+hr {
+	border-color: #1C1C1C;
+}
+.bt-menu-trigger span, .bt-menu-trigger span:before, .bt-menu-trigger span:after {
+	background: white;
+}
+#about {
+}
+
+#cv {
+}
+.cv-wrapper .cv .desc {
+	color: #625C4B;
+}
+
+#cv hr {
+	border-color: #1C1C1C;
+}
+
+.cv-wrapper .cv .date .fa,
+.cv-wrapper .cv .main .fa{
+	color:#625C4B;
+}
+
+#projects {
+}
+
+.portfolio-wrapper {
+	background: #1A1A1A;
+	color: #5C5C5C;
+}
+.portfolio-wrapper .arrow-up {
+	border-bottom: #0D0D0D;
+}
+.portfolio-container .tagIcon {
+	background: #A49666;
+}
+.portfolio-container .tagIcon:before {
+	border-color: rgba(0, 0, 0, 0) #A49666 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+}
+a.portfolio-hover {
+	background: #A49666;
+}
+#coding {
+}
+#awards {
+}
+#awards .icon-effect {
+	box-shadow: 0 0 0 3px #DCB949;
+}
+#awards .icon-effect:after {
+	background: #DCB949;
+}
+#awards .icon-effect:hover, .info-box:hover .icon-effect {
+	color: #DCB949;
+	background-color: #171717;
+}
+
+#callToAction {
+}
+
+#callToAction:before {
+	content: ' ';
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: #333;
+	opacity: 0.2;
+}
+#callToAction .call {
+	border-color: #171717;
+	color: #171717;
+}
+
+#contact, footer {
+	background: #171717;
+	color: #A49666;
+}
+
+#contact input, #contact textarea {
+	background: #1C1C1C;
+}
